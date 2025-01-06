@@ -1,4 +1,3 @@
-### **GitHub Repository Description**
 
 ---
 
